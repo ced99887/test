@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello
-=======
-hello develop
->>>>>>> develop
+hello jack
